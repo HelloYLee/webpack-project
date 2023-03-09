@@ -1,0 +1,6 @@
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: palegreen;
+    background-image: url('../images/4.gif');
+}
